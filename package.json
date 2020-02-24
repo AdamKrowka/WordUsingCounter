@@ -1,0 +1,21 @@
+{
+  "name": "word_usage_counter",
+  "version": "1.0.0",
+  "description": "Simple tool for counting words usage in text files",
+  "main": "wordsUsageCounter.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "words",
+    "counter",
+    "words_counter",
+    "usage"
+  ],
+  "author": "AdamKrowka https://github.com/AdamKrowka",
+  "license": "ISC",
+  "dependencies": {
+    "line-reader-sync": "^0.1.0"
+  },
+  "type": "module"
+}
